@@ -1,4 +1,4 @@
-# Testes com Selenium
+# Web scraping com Selenium
 
 ## Como utilizar
 1. Criar o `virtualenv`
