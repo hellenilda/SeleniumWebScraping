@@ -21,7 +21,20 @@
 
 ---
 
+## Resultado da tabela
+
+![grafico-exemplo](./assets/exemplo.png)
+
+---
+
 ## Teoria
 
 * O botão direito do mouse é um clique de contexto (as opções aparecem de acordo com o contexto em que ele está)
 * ActionChain: uma sequência de ações a serem executadas
+
+---
+
+## Melhorias futuras
+
+* Reorganização da estrutura geral do projeto
+* Finalização do README
